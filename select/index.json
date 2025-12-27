@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "My World",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-27T08:09:46.249186Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What My World Spins Around",
+      "artist": "Jordan Davis",
+      "has_synced": true,
+      "path": "select/01_What_My_World_Spins_Around_Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock My World (Little Country Girl)",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/02_Rock_My_World_(Little_Country_Girl)_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What's He Doing In My World",
+      "artist": "Eddy Arnold",
+      "has_synced": false,
+      "path": "select/03_What's_He_Doing_In_My_World_Eddy_Arnold.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Woman Of The World (Leave My World Alone) - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/04_Woman_Of_The_World_(Leave_My_World_Alone)_-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My World",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/05_My_World_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My World",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/06_My_World_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Has Been My World",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/07_This_Has_Been_My_World_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My World",
+      "artist": "O.C.",
+      "has_synced": false,
+      "path": "select/08_My_World_O.C..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My World",
+      "artist": "O.C.",
+      "has_synced": true,
+      "path": "select/09_My_World_O.C..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My World (Intro)",
+      "artist": "$Not",
+      "has_synced": true,
+      "path": "select/10_My_World_(Intro)_$Not.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In My World",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/11_In_My_World_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Share My World",
+      "artist": "DeBarge",
+      "has_synced": false,
+      "path": "select/12_Share_My_World_DeBarge.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Share My World",
+      "artist": "DeBarge",
+      "has_synced": true,
+      "path": "select/13_Share_My_World_DeBarge.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/14_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/15_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Are My World",
+      "artist": "Double You",
+      "has_synced": false,
+      "path": "select/16_You_Are_My_World_Double_You.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My World",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_My_World_ILLIT.txt"
+    }
+  ]
+}
